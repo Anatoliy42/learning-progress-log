@@ -1,5 +1,14 @@
 
 ## 5/26/2025
+> French (5 min): Completed a French lesson on Duolingo
+> Development (60 min): Wrote code for one hour learning about Cron in Node.js
+
+Summary: Completed a brief French practice and spent a focused hour coding, learning advanced Node.js concepts like Cron.
+
+---
+---
+
+## 5/26/2025
 > undefined (undefined min): undefined
 > undefined (undefined min): undefined
 
