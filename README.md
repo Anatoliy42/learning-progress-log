@@ -1,6 +1,21 @@
 
 ## 5/26/2025
 
+**French** _(60 min)_
+> Studied French for one hour focusing on learning all sounds in the first iteration.
+
+**English** _(180 min)_
+> Had a one-hour lesson with an English teacher and attended Toastmasters for two hours.
+
+**Development** _(180 min)_
+> Worked on Bloom Academy for three hours, polishing the learning log idea and preparing to publish it on a server.
+
+**Summary:** Spent one hour studying French sounds, three hours on English lessons and Toastmasters, and three hours developing and refining a learning log project.
+
+---
+
+## 5/26/2025
+
 **French** _(10 min)_
 > Completed one lesson in Duolingo
 
