@@ -1,5 +1,17 @@
 
 ## 5/26/2025
+
+**French** _(10 min)_
+> Completed one lesson in Duolingo
+
+**Development** _(210 min)_
+> Worked for three and a half hours including learning about cron and developing the first version of a learning bot API
+
+**Summary:** Studied French with a Duolingo lesson and spent three and a half hours on development work including learning about cron and creating a learning bot API.
+
+---
+
+## 5/26/2025
 > French (5 min): Completed a French lesson on Duolingo
 > Development (60 min): Wrote code for one hour learning about Cron in Node.js
 
