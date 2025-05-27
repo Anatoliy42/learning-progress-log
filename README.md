@@ -1,4 +1,22 @@
 
+## 5/27/2025
+
+**French** _(25 min)_
+> Studied French for 25 minutes
+
+**Development** _(90 min)_
+> Implemented assessment for Bloom Academy project, working on code for one and a half hours
+
+**Development** _(90 min)_
+> Spent three hours learning how to code
+
+**Startups** _(90 min)_
+> Worked on Bloom Academy, a new startup project, implementing assessment
+
+**Summary:** Studied French for 25 minutes and spent three hours learning to code plus one and a half hours implementing assessment for the Bloom Academy startup project.
+
+---
+
 ## 5/26/2025
 
 **French** _(60 min)_
