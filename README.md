@@ -1,4 +1,16 @@
 
+## 5/28/2025
+
+**French** _(10 min)_
+> Wrote one French word briefly, counted as a short French lesson
+
+**English** _(60 min)_
+> Listened to approximately one hour of English audiobooks, including 20 minutes of one book and 30 minutes of 'Let Them Theory'
+
+**Summary:** Briefly practiced French by writing one word and spent about an hour listening to English audiobooks.
+
+---
+
 ## 5/27/2025
 
 **French** _(25 min)_
