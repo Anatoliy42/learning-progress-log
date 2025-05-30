@@ -1,4 +1,16 @@
 
+## 5/29/2025
+
+**Development** _(120 min)_
+> Solved two algorithmic problems on LeetCode, completed an algorithmic assessment, researched and experimented with Perplexity Labs, created a 12-week algorithm improvement plan, found and planned to take courses on algorithms from Yandex and Udemy, created a table for LogProgress product to get topics from a database, and planned to connect PostgreSQL and deploy it on a server.
+
+**French** _(15 min)_
+> Studied French for 15 minutes.
+
+**Summary:** Spent two hours on various development tasks focused on algorithms and product development, and practiced French for 15 minutes.
+
+---
+
 ## 5/28/2025
 
 **French** _(10 min)_
