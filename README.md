@@ -1,6 +1,18 @@
 
 ## 31/05/2025
 
+**French** _(30 min)_
+> Studied French for 30 minutes
+
+**Development** _(300 min)_
+> Worked on log progress project during a 5-hour hackathon
+
+**Summary:** Studied French for 30 minutes and participated in a 5-hour hackathon working on a development project.
+
+---
+
+## 31/05/2025
+
 **Development** _(90 min)_
 > Participated in the world's largest hackathon, wrote and generated code, and managed access permissions.
 
