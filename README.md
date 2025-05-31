@@ -1,6 +1,18 @@
 
 ## 31/05/2025
 
+**French** _(15 min)_
+> Learned French for 15 minutes
+
+**Development** _(300 min)_
+> Spent 5 hours coding on a hackathon
+
+**Summary:** Learned French for 15 minutes and participated in a 5-hour coding hackathon.
+
+---
+
+## 31/05/2025
+
 **French** _(30 min)_
 > Studied French for 30 minutes
 
