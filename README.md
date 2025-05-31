@@ -1,4 +1,16 @@
 
+## 31/05/2025
+
+**Development** _(90 min)_
+> Participated in the world's largest hackathon, wrote and generated code, and managed access permissions.
+
+**French** _(10 min)_
+> Completed one exercise in French.
+
+**Summary:** Spent one and a half hours programming during a hackathon and completed a brief French exercise.
+
+---
+
 ## 5/29/2025
 
 **Development** _(120 min)_
