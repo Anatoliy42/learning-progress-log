@@ -1,4 +1,16 @@
 
+## 6/6/2025
+
+**Development** _(300 min)_
+> Worked on Bloom Academy for 45 minutes and Learn Progress Coding including adding Superbass, totaling approximately five hours of coding.
+
+**French** _(10 min)_
+> Did a French lesson.
+
+**Summary:** Spent about five hours coding on various projects and completed a French lesson.
+
+---
+
 ## 6/5/2025
 
 **French** _(15 min)_
