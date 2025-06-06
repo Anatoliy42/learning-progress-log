@@ -1,4 +1,16 @@
 
+## 6/5/2025
+
+**French** _(15 min)_
+> Completed a 15-minute French lesson on Duolingo
+
+**Development** _(120 min)_
+> Coded a project for 2 hours
+
+**Summary:** Spent 15 minutes learning French on Duolingo and 2 hours coding a project.
+
+---
+
 ## 31/05/2025
 
 **French** _(15 min)_
