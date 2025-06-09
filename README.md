@@ -1,4 +1,19 @@
 
+## 6/9/2025
+
+**French** _(90 min)_
+> Played a French game and learned French for one and a half hour
+
+**English** _(60 min)_
+> Learned English for one hour
+
+**Startups** _(120 min)_
+> Worked on immigration related tasks for two hours
+
+**Summary:** Spent one and a half hours learning French through a game, one hour learning English, and two hours working on immigration tasks.
+
+---
+
 ## 6/6/2025
 
 **Development** _(300 min)_
