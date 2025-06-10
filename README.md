@@ -1,4 +1,19 @@
 
+## 6/10/2025
+
+**French** _(120 min)_
+> Played a French language learning game using Language Reactor for two hours
+
+**English** _(120 min)_
+> Practiced English speaking and prepared jokes for Toastmasters during a two-hour session
+
+**Development** _(60 min)_
+> Spent about one hour thinking about architecture and doing some unspecified development-related activity
+
+**Summary:** Spent two hours playing a French language game, two hours practicing English and preparing for Toastmasters, and one hour on development-related architectural thinking.
+
+---
+
 ## 6/9/2025
 
 **French** _(90 min)_
