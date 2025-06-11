@@ -1,4 +1,19 @@
 
+## 11/06/2025
+
+**Development** _(210 min)_
+> Coded for about three hours, completed the first assessment, deployed it on Vercel, integrated Firebase and Firestore.
+
+**Startups** _(180 min)_
+> Spent three hours discussing ideas and activities related to the startup LLL42 (Leverage Learning Lab 42) with Denis.
+
+**Development** _(30 min)_
+> Additional 30 minutes of coding discussion with Denis.
+
+**Summary:** Spent three hours coding and deploying a project with Firebase and Firestore, and three hours discussing startup ideas for LLL42 with Denis, including some coding talk.
+
+---
+
 ## 6/10/2025
 
 **French** _(120 min)_
