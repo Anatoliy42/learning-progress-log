@@ -1,4 +1,19 @@
 
+## 12/06/2025
+
+**French** _(60 min)_
+> Played a French game for about one hour, studied grammar, IPA sounds, and added around 47-50 words to the Language Reactor vocabulary.
+
+**Development** _(180 min)_
+> Coded for about three hours, created a report similar to Kobe A Index without AI or customization, implemented 25 questions in Bloom Academy with data stored in Firebase, and planned AI integration for learner archetype analysis.
+
+**English** _(60 min)_
+> Studied English for one hour through a lesson.
+
+**Summary:** Spent one hour practicing French through a game and vocabulary building, three hours coding a learner report system, and one hour studying English.
+
+---
+
 ## 11/06/2025
 
 **Development** _(210 min)_
