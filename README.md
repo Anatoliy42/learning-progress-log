@@ -3,6 +3,17 @@
 
 
 <!-- LEARNING_LOGS -->
+## 13/6/2025
+
+### English (30 min)
+
+> Studied English language skills.
+
+**Summary:** Spent 30 minutes studying English language skills.
+
+---
+
+
 13/6/2025
 
 ## French
