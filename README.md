@@ -249,3 +249,18 @@ Summary: Completed a short French lesson and spent an hour coding while learning
 > undefined (undefined min): undefined
 
 Summary: The user practiced French briefly and spent significant time coding, focusing on advanced Node.js concepts like Cron.
+
+
+<!-- LEARNING_STATS -->
+## 📊 Learning Statistics
+
+- **Total Learning Sessions**: 4
+- **Total Time Spent**: 4.5 hours (270 minutes)
+
+### 📚 Topics Breakdown
+
+- **French**: 1 sessions
+- **Development**: 1 sessions
+
+*Last updated: 2025-06-14*
+<!-- /LEARNING_STATS -->
