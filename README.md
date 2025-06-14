@@ -1,6 +1,20 @@
 
 ## 12/06/2025
 
+
+<!-- LEARNING_LOGS -->
+13/6/2025
+
+## French
+
+- **Time spent**: 30 minutes
+- **Details**: Learned basic concepts of the French language.
+
+**Summary**: The learner has dedicated 30 minutes to studying French.
+
+
+<!-- /LEARNING_LOGS -->
+
 **French** _(60 min)_
 > Played a French game for about one hour, studied grammar, IPA sounds, and added around 47-50 words to the Language Reactor vocabulary.
 
