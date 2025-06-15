@@ -276,14 +276,14 @@ Summary: The user practiced French briefly and spent significant time coding, fo
 <!-- LEARNING_STATS -->
 ## 📊 Learning Statistics
 
-- **Total Learning Sessions**: 5
-- **Total Time Spent**: 5 hours (300 minutes)
+- **Total Learning Sessions**: 6
+- **Total Time Spent**: 6 hours (360 minutes)
 
 ### 📚 Topics Breakdown
 
+- **Development**: 4 sessions
+- **French**: 2 sessions
 - **English**: 1 sessions
-- **French**: 1 sessions
-- **Development**: 1 sessions
 
-*Last updated: 2025-06-14*
+*Last updated: 2025-06-15*
 <!-- /LEARNING_STATS -->
