@@ -1,4 +1,19 @@
 <!-- LEARNING_LOGS -->
+## 15/6/2025
+
+### French (60 min)
+
+> Purchased a one-year subscription to Alliance Française and engaged in listening to podcasts and reviewing vocabulary.
+
+### Development (0 min)
+
+> No description, No description, No description
+
+**Summary:** The day was focused on conversation and teaching, with significant time spent on learning French and audio processing techniques, alongside discussions about neuroscience.
+
+---
+
+
 ## 13/6/2025
 
 ### English (30 min)
